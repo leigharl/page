@@ -48,10 +48,10 @@ header{
     width: 100%;
     min-height: 100vh;
     background-color: pink;
-    background-image: url(jowi.avif);
+    /*background-image: url(jowi.avif);
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
