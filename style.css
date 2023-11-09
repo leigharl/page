@@ -47,8 +47,9 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
+    background-color: pink;
     background-image: url(jowi.avif);
-    background-size: 1920px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
