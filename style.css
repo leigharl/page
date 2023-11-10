@@ -90,7 +90,7 @@ section{
 .hero-img img{
     width: 700px;
     height: auto;
-    position: absolute;
+    position: relative;
 }
 .knowing-text a{
     display: inline-block;
